@@ -1,5 +1,5 @@
 # awesome-music-ai
-Подборка интересных материалов, моделей и сервисов для интеллектуального анализа и генерации музыки
+### Подборка интересных материалов, моделей и сервисов для интеллектуального анализа и генерации музыки
 
 [VocalRemover](https://vocalremover.org/ )  -- сервис для разделения аудио на различные инструменты, а также для анализа различных характеристик (темпа, тональности)    
 
@@ -66,7 +66,7 @@ GigaChat -- https://developers.sber.ru/gigachat/login
 
 # ai-audio-startups
 
-Подборка современных сервисов и стартапов, работающих с ИИ в музыке и аудио, сгруппированы по тематикам. https://github.com/csteinmetz1/ai-audio-startups 
+### Подборка современных сервисов и стартапов, работающих с ИИ в музыке и аудио, сгруппированы по тематикам. https://github.com/csteinmetz1/ai-audio-startups 
 1) Creation & Production
 2) Source separation
 3) Analysis / Recommendation
@@ -77,7 +77,7 @@ GigaChat -- https://developers.sber.ru/gigachat/login
 8) Speech (Transciption, Synthesis, Enhancement & Manipulation)
 
 # genmusic_demo_list
- Список вебсайтов с демо моделей для генерации музыки в аудио, символьном домене и многое другое из смежных задач, сгруппированы по тематикам!  https://github.com/affige/genmusic_demo_list
+### Список вебсайтов с демо моделей для генерации музыки в аудио, символьном домене и многое другое из смежных задач, сгруппированы по тематикам!  https://github.com/affige/genmusic_demo_list
  1) text-to-music/audio
  2) accompaniment generation 
  3) performance generation
